@@ -27,3 +27,12 @@ img {
     height:50%;
     border:1px solid black;
   }
+  
+  h2{
+    text-align:center;
+    font-family:Helvetica;
+  }
+
+  #history{
+    font-weight:bold;
+  }
