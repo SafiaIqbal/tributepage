@@ -36,3 +36,17 @@ img {
   #history{
     font-weight:bold;
   }
+
+  table, th, td {
+    border: 1px solid rgb(185, 185, 185);
+    border-collapse: collapse; 
+  }
+#pro{
+   text-align: left;
+}
+footer{
+    font-size: 15px;
+}
+hr{
+    color:black;
+}
